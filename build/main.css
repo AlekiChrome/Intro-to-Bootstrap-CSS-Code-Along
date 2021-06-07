@@ -1,3 +1,9 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background: whitesmoke;
+  color: rgb(41, 38, 38);
+}
+
 #hero {
   position: relative;
   text-align: center;
@@ -17,9 +23,6 @@ nav {
   display: none;
 }
 
-img {
-  /* width: 100px; */
-}
 
 .card-text {
   white-space: nowrap;
